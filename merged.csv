@@ -1,0 +1,28 @@
+Company Name,Sector classification,Listed/Unlisted,Linear Regression Predictions,CSR Journal Rank,Spend on CSR,Required,Custom Score
+Adani Enterprises Limited,Logistics,Listed,62.72281915414757,9,12.87,,0
+Adani Power Limited,Power Thermal,Listed,76.66145814306465,43,0.15,0.0,0.00
+Ambuja Cements Limited,Cement,Listed,85.8532630106394,46,64.41,36.59,76.03
+Bajaj Auto Limited,Auto OEM,Listed,86.143716880083,50,75.66,126.66,-40.27
+Bajaj Finance Limited,Lending,Listed,88.48473747188123,12,60.01,120.89,-50.36
+Bharti Airtel Limited,Telecom,Listed,89.3483737962427,10,16.43,,0
+Britannia Industries Limited,FMCG,Listed,91.30353193875968,48,38.57,38.57,0.00
+Grasim Industries Limited,Diversified,Listed,84.24535677585025,45,42.47,35.97,18.07
+HDFC Bank Limited,Lending,Listed,100.50074399437824,3,733.86,733.86,0.00
+HDFC Life Insurance Company Limited,Insurance,Listed,84.83157816895213,41,17.4,12.97,34.16
+Hindustan Unilever Limited,FMCG,Listed,95.86116266969997,6,184.43,157.58,17.04
+Housing Development Finance Corporation Limited,Lending,Listed,98.52181508542346,8,194.03,190.53,1.84
+Infosys Limited,IT,Listed,98.1818537505049,5,344.91,396.7,-13.06
+ITC Limited,FMCG,Listed,82.07173474061567,11,351.13,354.27,-0.89
+LTIMindtree Limited,IT,Listed,91.99606982161606,40,17.1,16.8,1.79
+Mahindra and Mahindra Limited,Auto OEM,Listed,88.4922041263536,33,97.07,96.84,0.24
+NTPC Limited,Power Thermal,Listed,82.87976774805045,32,281.8,356.72,-21.00
+Pidilite Industries Limited,Chemical,Listed,85.71554400430693,39,23.52,25.37,-7.29
+Reliance Industries Limited,Diversified,Listed,91.53289275539888,1,1186.0,1112.0,6.65
+SBI Life Insurance Company Limited,Insurance,Listed,83.40352528532723,42,26.72,24.71,8.13
+Siemens Limited,Industrial and capital goods,Listed,85.30917596236925,49,27.45,27.2,0.92
+State Bank of India,Lending,Listed,93.401816275653,7,204.1,,0
+Tata Consultancy Services Limited,IT,Listed,96.49466696618047,2,727.0,716.0,1.54
+Tata Motors Limited,Auto OEM,Listed,90.42170811766736,37,23.7,0.0,0.00
+Tata Steel Limited,Metal,Listed,88.58384593666034,38,405.97,266.57,52.29
+Titan Company Limited,Consumer Products,Listed,83.27662065508243,25,35.42,35.01,1.17
+Vedanta Limited,Metal,Listed,72.66087085074462,44,138.12,37.5,100.00

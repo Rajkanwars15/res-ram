@@ -1,0 +1,602 @@
+Company Name,Sector classification,Listed/Unlisted,Environment Score,Social Score,Governance Score,ESG Score,Category,Linear Regression Predictions,Random Forest Predictions
+360 One Wam Limited,Financial Services,Listed,48,50,69,57,Adequate,84.91978970980965,0.9151371772299997
+3M India Limited,Industrial and capital goods,Listed,41,46,69,54,Adequate,84.92733891211594,0.9151371772299997
+Aadhar Housing Finance Limited,Lending,Unlisted,62,53,64,61,Strong,78.90354635174687,0.9151371772299997
+Aarti Industries Limited,Chemical,Listed,42,60,59,53,Adequate,74.12891606493884,0.9151371772299997
+AAVAS Financiers Limited,Lending,Listed,62,59,72,66,Strong,89.2493478792975,0.9151371772299997
+ABB India Limited,Industrial and capital goods,Listed,58,56,70,62,Strong,86.23715952732128,0.9151371772299997
+Abbott India Limited,Pharmaceuticals,Listed,60,62,70,65,Strong,87.15981845206335,0.9151371772299997
+ACC Limited,Cement,Listed,53,52,69,59,Adequate,84.8498591995122,0.9151371772299997
+Action Construction Equipment Limited,Industrial and capital goods,Listed,36,38,74,52,Adequate,90.10028644280585,0.9151371772299997
+Adani Enterprises Limited,Logistics,Listed,33,52,50,44,Below Average,62.72281915414757,0.9151371772299997
+Adani Green Energy Limited,Power Renewable,Listed,74,57,64,66,Strong,78.81525226305546,0.9151371772299997
+Adani Ports and Special Economic Zone Limited,Ports,Listed,33,57,57,48,Adequate,71.6167970316355,0.9151371772299997
+Adani Power Limited,Power Thermal,Listed,47,51,62,54,Adequate,76.66145814306465,0.9151371772299997
+Adani Total Gas Limited,Oil and Gas - Gas,Listed,45,51,70,57,Adequate,86.503925178161,0.9151371772299997
+Adani Transmission Limited,Power T&amp;D,Listed,61,57,65,62,Strong,80.55547031613322,0.9151371772299997
+Aditya Birla Capital Limited,Holding,Listed,69,56,69,66,Strong,84.86469897462776,0.9151371772299997
+Aditya Birla Fashion and Retail Limited,Consumer Products,Listed,57,56,68,61,Strong,83.94752978576344,0.9151371772299997
+Aditya Birla Finance Limited,Lending,Unlisted,62,59,63,62,Strong,78.32822188256658,0.9151371772299997
+Aditya Birla Housing Finance Limited,Lending,Unlisted,62,56,69,63,Strong,84.8938769291094,0.9151371772299997
+Aditya Birla Sun Life AMC Limited,Financial Services,Listed,48,48,68,56,Adequate,83.46255887170311,0.9151371772299997
+Advanced Enzyme Technologies Limited,Pharmaceuticals,Listed,32,54,70,53,Adequate,87.23327276563919,0.9151371772299997
+Affle (India) Limited,IT,Listed,43,52,73,57,Adequate,89.95836595578237,0.9151371772299997
+Ahluwalia Contracts India Limited,Construction EPC,Listed,29,45,56,44,Below Average,69.58303601699582,0.9151371772299997
+AIA Engineering Limited,Heavy Engineering,Listed,52,46,76,60,Adequate,92.61026346184673,0.9151371772299997
+Ajanta Pharma Limited,Pharmaceuticals,Listed,33,58,72,55,Adequate,89.96385569166013,0.9151371772299997
+Akzo Nobel India Limited,Paints,Listed,37,52,66,52,Adequate,81.77537208737868,0.9151371772299997
+Alembic Limited,Real Estate,Listed,34,32,63,45,Below Average,76.20231746187066,0.9151371772299997
+Alembic Pharmaceuticals Limited,Pharmaceuticals,Listed,36,56,71,55,Adequate,88.37431303526495,0.9151371772299997
+Alkem Laboratories Limited,Pharmaceuticals,Listed,46,54,74,59,Adequate,91.28328497560027,0.9151371772299997
+Amara Raja Batteries Limited,Batteries,Listed,32,45,70,50,Adequate,85.92663477638133,0.9151371772299997
+Amber Enterprises India Limited,Consumer Durable,Listed,46,40,71,55,Adequate,86.44901052464219,0.9151371772299997
+Ambuja Cements Limited,Cement,Listed,50,58,69,60,Adequate,85.8532630106394,0.9151371772299997
+Angel One Limited,Financial Services,Listed,43,49,74,57,Adequate,90.96923642138194,0.9151371772299997
+Apar Industries Limited,Industrial and capital goods,Listed,56,48,68,59,Adequate,83.24950216702935,0.9151371772299997
+APL Apollo Tubes Limited,Metal,Listed,40,43,72,54,Adequate,88.17627218736985,0.9151371772299997
+Apollo Tyres Limited,Tyre,Listed,43,50,66,54,Adequate,81.49993407471374,0.9151371772299997
+Arvind Fashions Limited,Consumer Products,Listed,39,47,62,50,Adequate,76.43356166327531,0.9151371772299997
+Arvind Limited,Textiles,Listed,51,51,64,56,Adequate,78.81877606633385,0.9151371772299997
+Ashok Leyland Limited,Auto OEM,Listed,51,49,74,60,Adequate,90.75617971670819,0.9151371772299997
+Ashoka Buildcon Limited,Road Infrastructure,Listed,21,42,58,41,Below Average,71.83405521700026,0.9151371772299997
+Asian Paints Limited,Paints,Listed,61,59,80,68,Strong,98.48861173191392,0.9151371772299997
+Aster DM Healthcare Limited,Healthcare,Listed,64,56,69,64,Strong,84.94544386101289,0.9151371772299997
+Astral Limited,Building material,Listed,57,49,72,61,Strong,88.01804758838097,0.9151371772299997
+Astrazeneca Pharma India Limited.,Pharmaceuticals,Listed,39,60,77,59,Adequate,95.68415544440151,0.9151371772299997
+Atul Limited,Chemical,Listed,24,45,57,43,Below Average,71.1101973653998,0.9151371772299997
+AU Small Finance Bank Limited,Lending,Listed,60,60,77,67,Strong,95.17729714866884,0.9151371772299997
+Aurobindo Pharma Limited,Pharmaceuticals,Listed,54,60,69,61,Strong,85.54788681824628,0.9151371772299997
+Avenue Supermarts Limited,Multi Brand retail,Listed,38,39,69,50,Adequate,83.76382711723438,0.9151371772299997
+Axis Bank Limited,Lending,Listed,68,63,79,71,Leadership,97.45397049987655,0.9151371772299997
+Axis Finance Limited,Lending,Unlisted,59,48,57,55,Adequate,69.72255586025982,0.9151371772299997
+Bahadur Chand Investments Private Limited,Holding,Unlisted,60,57,34,49,Adequate,43.448278524920475,0.9151371772299997
+Bajaj Auto Limited,Auto OEM,Listed,40,47,70,54,Adequate,86.143716880083,0.9151371772299997
+Bajaj Consumer Care Limited,FMCG,Listed,40,51,71,55,Adequate,87.61176209427721,0.9151371772299997
+Bajaj Electricals Limited,Consumer electricals,Listed,38,42,61,48,Adequate,74.72466357894164,0.9151371772299997
+Bajaj Finance Limited,Lending,Listed,63,64,71,67,Strong,88.48473747188123,0.9151371772299997
+Bajaj Finserv Limited,Holding,Listed,60,61,69,64,Strong,85.70799480200064,0.9151371772299997
+Bajaj Holdings and Investment Limited,Holding,Listed,43,48,69,55,Adequate,84.9897202201071,0.9151371772299997
+Bajaj Housing Finance Limited,Lending,Unlisted,64,55,64,62,Strong,78.96592765973806,0.9151371772299997
+Balkrishna Industries Limited,Tyre,Listed,32,46,72,51,Adequate,88.40555045617512,0.9151371772299997
+Balrampur Chini Mills Limited,Sugar,Listed,43,47,76,57,Adequate,93.01260610475646,0.9151371772299997
+Bandhan Bank Limited,Lending,Listed,64,64,75,68,Strong,92.82855127290124,0.9151371772299997
+Bank of Baroda,Lending,Listed,54,64,66,61,Strong,82.48823948122838,0.9151371772299997
+Bank of India,Lending,Listed,60,67,65,64,Strong,81.63206981133929,0.9151371772299997
+Bank of Maharashtra,Lending,Listed,59,60,60,60,Adequate,74.96534036741802,0.9151371772299997
+BASF India Limited,Chemical,Listed,27,43,68,48,Adequate,83.9423812272166,0.9151371772299997
+Bata India Limited,Consumer Products,Listed,36,50,69,53,Adequate,85.4490369829642,0.9151371772299997
+Bayer Cropscience Limited,Chemical,Listed,33,44,70,51,Adequate,86.15667327043315,0.9151371772299997
+BEML Limited,Industrial and capital goods,Listed,37,51,67,53,Adequate,83.21638136135371,0.9151371772299997
+Berger Paints India Limited,Paints,Listed,39,47,73,55,Adequate,89.82819615175617,0.9151371772299997
+Bharat Dynamics Limited,Industrial and capital goods,Listed,39,56,57,51,Adequate,71.76609063930216,0.9151371772299997
+Bharat Electronics Limited,Industrial and capital goods,Listed,46,54,69,57,Adequate,85.30917596236925,0.9151371772299997
+Bharat Forge Limited,Auto Ancillary,Listed,55,54,55,55,Adequate,68.43632992982921,0.9151371772299997
+Bharat Heavy Electricals Limited,Heavy Engineering,Listed,55,52,67,59,Adequate,82.42791763966574,0.9151371772299997
+Bharat Oman Refineries Limited,Oil and Gas - OMC,Unlisted,26,41,56,42,Below Average,69.27439465082132,0.9151371772299997
+Bharat Petroleum Corporation Limited,Oil and Gas - OMC,Listed,46,59,68,58,Adequate,84.72844430514512,0.9151371772299997
+Bharat Sanchar Nigam Limited,Telecom,Unlisted,38,44,58,48,Adequate,71.65420186583603,0.9151371772299997
+Bharti Airtel Limited,Telecom,Listed,60,52,73,63,Strong,89.3483737962427,0.9151371772299997
+Bharti Telecom Limited,Holding,Unlisted,60,52,52,55,Adequate,64.42484571358757,0.9151371772299997
+Bhopal Dhule Transmission Company Limited,Power T&amp;D,Unlisted,36,33,50,41,Below Average,60.81047303387495,0.9151371772299997
+Biocon Limited,Pharmaceuticals,Listed,49,63,73,62,Strong,91.01119468455063,0.9151371772299997
+Birla Corporation Limited,Cement,Listed,30,40,66,47,Adequate,80.90101492075873,0.9151371772299997
+Birla Group Holdings Private Limited,Holding,Unlisted,50,56,30,43,Below Average,38.657344126147,0.9151371772299997
+Birlasoft Limited,IT,Listed,51,54,77,62,Strong,94.7031406106962,0.9151371772299997
+Blue Dart Express Limited,Logistics,Listed,38,52,71,55,Adequate,87.98492678270533,0.9151371772299997
+Blue Star Limited,Consumer Durable,Listed,38,48,71,54,Adequate,87.5439735982422,0.9151371772299997
+Bosch Limited,Auto Ancillary,Listed,48,47,66,55,Adequate,80.98364319190932,0.9151371772299997
+Brigade Enterprises Limited,Real Estate,Listed,56,47,66,58,Adequate,80.77058648723556,0.9151371772299997
+Britannia Industries Limited,FMCG,Listed,62,59,74,66,Strong,91.30353193875969,0.9151371772299997
+Brookfield India Real Estate Trust,REIT,Unlisted,39,25,56,42,Below Average,66.79745588962217,0.9151371772299997
+Camlin Fine Sciences Limited,Chemical,Listed,25,43,66,46,Adequate,81.41730580356317,0.9151371772299997
+Can Fin Homes Limited,Lending,Listed,63,63,72,66,Strong,89.08709788128073,0.9151371772299997
+Canara Bank,Lending,Listed,48,68,67,61,Strong,84.64023276428762,0.9151371772299997
+Capacite Infraprojects Limited,Construction EPC,Listed,32,44,57,45,Below Average,70.47240904039444,0.9151371772299997
+Carborundum Universal Limited,Industrial and capital goods,Listed,36,48,75,55,Adequate,92.43942364983862,0.9151371772299997
+Cartrade Tech Limited,Internet,Listed,41,37,56,46,Adequate,68.17188237491503,0.9151371772299997
+Castrol India Limited,Lubricants,Listed,38,52,71,55,Adequate,87.98492678270533,0.9151371772299997
+CCL Products (India) Limited,FMCG,Listed,40,48,70,54,Adequate,86.14912406812685,0.9151371772299997
+Ceat Limited,Tyre,Listed,47,54,72,59,Adequate,89.04522216594594,0.9151371772299997
+Central Bank Of India,Lending,Listed,56,63,59,59,Adequate,74.08678172010707,0.9151371772299997
+Central Depository Services India Limited,Financial Services,Listed,44,46,74,56,Adequate,90.34981167477052,0.9151371772299997
+Centum Electronics Limited,Heavy Engineering,Listed,34,48,65,50,Adequate,80.43963869147312,0.9151371772299997
+Century Plyboards India Limited,Building material,Listed,36,44,61,48,Adequate,75.10323545541358,0.9151371772299997
+Century Textiles and Industries Limited,Textiles,Listed,37,38,67,49,Adequate,81.46879018763275,0.9151371772299997
+Cera Sanitaryware Limited,Building material,Listed,34,47,63,49,Adequate,77.96072301167932,0.9151371772299997
+CESC Limited,Power T&amp;D,Listed,46,47,69,55,Adequate,84.43267678148688,0.9151371772299997
+CG Power and Industrial Solutions Limited,Industrial and capital goods,Listed,34,42,62,47,Adequate,76.0679461771535,0.9151371772299997
+Chalet Hotels Limited,Hotel,Listed,54,46,69,58,Adequate,84.21421288876927,0.9151371772299997
+Chambal Fertilisers and Chemicals Limited,Chemical,Listed,38,52,62,51,Adequate,77.06380078597441,0.9151371772299997
+Chemplast Sanmar Limited,Chemical,Listed,44,47,53,48,Adequate,65.43169078015926,0.9151371772299997
+Chennai Petroleum Corporation Limited,Oil and Gas - OMC,Listed,28,49,64,48,Adequate,79.68257748636313,0.9151371772299997
+Cholamandalam Financial Holdings Limited,Holding,Listed,53,59,67,60,Adequate,83.25284988864465,0.9151371772299997
+Cholamandalam Investment and Finance Company Limited,Lending,Listed,56,65,68,63,Strong,85.01872209292567,0.9151371772299997
+Cipla Limited,Pharmaceuticals,Listed,60,67,75,68,Strong,93.5802878378013,0.9151371772299997
+City Union Bank Limited,Lending,Listed,60,63,75,67,Strong,93.13933465333817,0.9151371772299997
+Clean Science and Technology Limited,Chemical,Listed,23,27,57,38,Below Average,69.10012456936401,0.9151371772299997
+Coal India Limited,Mining,Listed,33,53,55,47,Adequate,69.1216597877102,0.9151371772299997
+Coastal Gujarat Power Limited,Power Thermal,Unlisted,27,45,58,44,Below Average,72.00497757684225,0.9151371772299997
+Coforge Limited,IT,Listed,44,56,73,59,Adequate,90.63476482234113,0.9151371772299997
+Colgate - Palmolive India Limited,FMCG,Listed,45,51,76,59,Adequate,93.50512622112309,0.9151371772299997
+Computer Age Management Services Limited,Financial Services,Listed,46,52,73,58,Adequate,89.82605413749373,0.9151371772299997
+Container Corporation of India Limited,Logistics,Listed,37,53,53,47,Adequate,66.33196072747945,0.9151371772299997
+Coromandel International Limited,Chemical,Listed,48,51,63,55,Adequate,77.92399585489139,0.9151371772299997
+CreditAccess Grameen Limited,Lending,Listed,62,64,73,67,Strong,90.72280028153556,0.9151371772299997
+Crompton Greaves Consumer Electricals Limited,Consumer electricals,Listed,38,47,78,56,Adequate,95.56685948289156,0.9151371772299997
+CSB Bank Limited,Lending,Listed,63,59,76,67,Strong,93.59316168031751,0.9151371772299997
+Cummins India Limited,Industrial and capital goods,Listed,60,58,64,61,Strong,79.29833979235035,0.9151371772299997
+Cyient Limited,IT,Listed,62,50,71,63,Strong,86.91561786030856,0.9151371772299997
+Dabur India Limited,FMCG,Listed,49,52,72,59,Adequate,88.66665028947402,0.9151371772299997
+Dalmia Bharat Limited- -formerly Odisha Cement Limited,Cement,Listed,55,56,66,60,Adequate,81.84177879439775,0.9151371772299997
+DB Corp Limited,Media,Listed,44,49,58,51,Adequate,71.8359386017657,0.9151371772299997
+DCB Bank Limited,Lending,Listed,62,48,72,63,Strong,87.93189551395197,0.9151371772299997
+Deepak Nitrite Limited,Chemical,Listed,22,48,65,46,Adequate,80.96888596462766,0.9151371772299997
+Delta Corp Limited,Hotel,Listed,34,50,71,53,Adequate,87.87097854281065,0.9151371772299997
+Dhanuka Agritech Limited,Chemical,Listed,24,39,62,43,Below Average,76.21321438579226,0.9151371772299997
+Dilip Buildcon Limited,Construction EPC,Listed,31,46,69,50,Adequate,85.08882868488621,0.9151371772299997
+Divis Laboratories Limited,Pharmaceuticals,Listed,44,58,65,56,Adequate,81.17086966371674,0.9151371772299997
+Dixon Technologies (India) Limited,Consumer Durable,Listed,36,47,75,54,Adequate,92.014692029507,0.9151371772299997
+DLF Limited,Real Estate,Listed,63,53,65,61,Strong,79.74675963128584,0.9151371772299997
+Dr. Lal Pathlabs Limited,Healthcare,Listed,49,58,76,62,Strong,94.0654348335247,0.9151371772299997
+Dr. ReddyS Laboratories Limited,Pharmaceuticals,Listed,61,58,76,66,Strong,93.53618756037017,0.9151371772299997
+Dynamatic Technologies Limited,Industrial and capital goods,Listed,36,44,69,51,Adequate,84.57794499012563,0.9151371772299997
+Eclerx Services Limited,IT,Listed,62,51,77,65,Strong,93.9222260913145,0.9151371772299997
+Edelweiss Financial Services Limited,Financial Services,Listed,57,48,57,55,Adequate,70.0903133606441,0.9151371772299997
+Edelweiss Rural and Corporate Services Limited,Financial Services,Unlisted,41,38,49,44,Below Average,60.148996490265674,0.9151371772299997
+Eicher Motors Limited,Auto OEM,Listed,56,52,64,58,Adequate,78.74343836799255,0.9151371772299997
+EIH Limited,Hotel,Listed,43,64,59,54,Adequate,74.38599049920981,0.9151371772299997
+Elecon Engineering Company Limited,Industrial and capital goods,Listed,39,42,64,50,Adequate,78.46070978251831,0.9151371772299997
+Elgi Equipments Limited,Industrial and capital goods,Listed,36,44,69,51,Adequate,84.57794499012563,0.9151371772299997
+Emami Limited,FMCG,Listed,42,61,64,56,Adequate,80.52775669850145,0.9151371772299997
+Embassy Office Parks Reit,REIT,Listed,64,42,50,53,Adequate,60.74242590834294,0.9151371772299997
+Endurance Technologies Limited,Auto Ancillary,Listed,36,49,72,54,Adequate,88.9442303164014,0.9151371772299997
+Engineers India Limited,Construction EPC,Listed,34,62,70,55,Adequate,87.74742163418115,0.9151371772299997
+EPL Limited,Industrial and capital goods,Listed,54,46,74,60,Adequate,90.18832190200025,0.9151371772299997
+Equitas Holdings Limited,Holding,Listed,56,65,76,66,Strong,94.49343162763772,0.9151371772299997
+Equitas Small Finance Bank Limited,Lending,Listed,56,65,79,68,Strong,98.41335658140655,0.9151371772299997
+ERIS Lifesciences Limited,Pharmaceuticals,Listed,33,51,65,50,Adequate,80.63973900579677,0.9151371772299997
+Esab India Limited,Industrial and capital goods,Listed,34,49,69,51,Adequate,84.97273843072908,0.9151371772299997
+Escorts Kubota Limited,Auto OEM,Listed,51,45,75,59,Adequate,91.34231856197616,0.9151371772299997
+Exide Industries Limited,Batteries,Listed,41,49,70,55,Adequate,86.38997693826632,0.9151371772299997
+Export Import Bank of India,DFI-Unlisted,Unlisted,63,50,33,48,Adequate,41.41237549601835,0.9151371772299997
+Fine Organic Industries Limited,Chemical,Listed,26,44,57,43,Below Average,70.73703267697171,0.9151371772299997
+Finolex Cables Limited,Consumer electricals,Listed,34,39,57,45,Below Average,70.07761559979097,0.9151371772299997
+Finolex Industries Limited,Building material,Listed,34,41,74,52,Adequate,90.48426550732164,0.9151371772299997
+Firstsource Solutions Limited,IT,Listed,58,47,72,61,Strong,87.82335446210114,0.9151371772299997
+Food Corporation of India,Agri Commodities,Unlisted,34,39,45,40,Below Average,55.65588908157901,0.9151371772299997
+Fortis Healthcare Limited,Healthcare,Listed,43,51,52,48,Adequate,64.61010625279565,0.9151371772299997
+FSN E-Commerce Ventures Limited,Internet,Listed,43,38,68,52,Adequate,82.65058301307432,0.9151371772299997
+Fullerton India Credit Company Limited,Lending,Unlisted,63,57,55,58,Adequate,68.23949478928695,0.9151371772299997
+G R Infraprojects Limited,Road Infrastructure,Listed,20,32,69,43,Below Average,84.10052327837157,0.9151371772299997
+Gabriel India Limited,Auto Ancillary,Listed,38,46,70,53,Adequate,86.08674276013566,0.9151371772299997
+Gail India Limited,Oil and Gas - Gas,Listed,59,68,62,63,Strong,78.32075522809421,0.9151371772299997
+Galaxy Surfactants Limited,Chemical,Listed,38,52,65,52,Adequate,80.56440130745547,0.9151371772299997
+Garden Reach Shipbuilders and Engineers Limited,Shipbuilding,Listed,32,43,59,45,Below Average,72.52118591181278,0.9151371772299997
+Gateway Distriparks Limited,Logistics,Listed,34,43,66,49,Adequate,81.02037034869726,0.9151371772299997
+Gati Limited,Logistics,Listed,36,48,53,46,Adequate,66.06947910516463,0.9151371772299997
+GE Power India Limited,Heavy Engineering,Listed,37,47,65,50,Adequate,79.88259525285287,0.9151371772299997
+GE T&amp;D India Limited,Heavy Engineering,Listed,36,49,72,54,Adequate,88.9442303164014,0.9151371772299997
+General Insurance Corporation of India,Insurance,Listed,42,52,57,50,Adequate,70.77350120426262,0.9151371772299997
+GHCL Limited,Chemical,Listed,37,52,64,51,Adequate,79.30186359562873,0.9151371772299997
+GIC Housing Finance Limited,Lending,Listed,62,57,64,62,Strong,79.34449953621,0.9151371772299997
+Gillette India Limited,FMCG,Listed,43,37,65,50,Adequate,78.72525087126166,0.9151371772299997
+Gland Pharma Limited,Pharmaceuticals,Listed,38,59,72,57,Adequate,89.88851799331881,0.9151371772299997
+Glaxo Smithkline Pharmaceuticals Limited,Pharmaceuticals,Listed,36,51,74,55,Adequate,91.42855318423904,0.9151371772299997
+Glenmark Pharmaceuticals Limited,Pharmaceuticals,Listed,52,57,67,60,Adequate,83.4259142627491,0.9151371772299997
+GMM Pfaudler Limited,Industrial and capital goods,Listed,37,43,75,54,Adequate,91.80918452713954,0.9151371772299997
+GNA Axles Limited,Auto Ancillary,Listed,32,32,61,44,Below Average,74.09656647050498,0.9151371772299997
+Go Fashion (India) Limited,Consumer Products,Listed,32,33,59,43,Below Average,71.62846516679886,0.9151371772299997
+Godfrey Phillips India Limited,FMCG,Listed,39,39,51,44,Below Average,62.576345238155966,0.9151371772299997
+Godrej Agrovet Limited,FMCG,Listed,42,50,72,56,Adequate,88.68501386786797,0.9151371772299997
+Godrej Consumer Products Limited,FMCG,Listed,61,59,76,66,Strong,93.541594748414,0.9151371772299997
+Godrej Properties Limited,Real Estate,Listed,56,53,65,59,Adequate,80.19526201805526,0.9151371772299997
+Gokaldas Exports Limited,Textiles,Listed,32,56,69,53,Adequate,86.21699511199577,0.9151371772299997
+Goodyear India Limited,Tyre,Listed,32,46,69,50,Adequate,84.90494993469407,0.9151371772299997
+Granules India Limited,Pharmaceuticals,Listed,37,54,69,54,Adequate,85.70611141723518,0.9151371772299997
+Graphite India Limited,Metal,Listed,26,44,61,45,Below Average,75.68404966047162,0.9151371772299997
+Grasim Industries Limited,Diversified,Listed,60,58,68,63,Strong,84.24535677585025,0.9151371772299997
+Greenlam Industries Limited,Building material,Listed,39,40,72,53,Adequate,87.92460494114269,0.9151371772299997
+Greenpanel Industries Limited,Building material,Listed,33,35,71,49,Adequate,86.29645174319415,0.9151371772299997
+Greenply Industries Limited,Building material,Listed,36,44,61,48,Adequate,75.10323545541358,0.9151371772299997
+Grindwell Norton Limited,Industrial and capital goods,Listed,42,47,71,55,Adequate,87.22237584171761,0.9151371772299997
+Gujarat Gas Limited,Oil and Gas - Gas,Listed,32,54,70,53,Adequate,87.23327276563919,0.9151371772299997
+Gujarat Industries Power Company Limited,Power Thermal,Listed,26,39,60,43,Below Average,73.7912728259458,0.9151371772299997
+Gujarat Narmada Valley Fertilizers and Chemicals Limited,Chemical,Listed,23,45,65,45,Below Average,80.34946121801623,0.9151371772299997
+Gujarat Pipavav Port Limited,Ports,Listed,21,41,68,45,Below Average,83.77686605541842,0.9151371772299997
+Gujarat State Fertilizers and Chemicals Limited,Chemical,Listed,29,45,65,47,Adequate,80.08483758143896,0.9151371772299997
+Gujarat State Petronet Limited,Oil and Gas - Gas,Listed,34,44,60,47,Adequate,74.02457649377898,0.9151371772299997
+H.G. Infra Engineering Limited,Construction EPC,Listed,31,35,58,43,Below Average,70.79606626334758,0.9151371772299997
+Happiest Minds Technologies Limited,IT,Listed,44,63,80,63,Strong,99.53955707591673,0.9151371772299997
+Hatsun Agro Product Limited,FMCG,Listed,39,51,67,53,Adequate,82.84862386096944,0.9151371772299997
+Havells India Limited,Consumer electricals,Listed,60,58,72,64,Strong,88.7730493270624,0.9151371772299997
+Hawkins Cookers Limited,Consumer Products,Listed,37,41,62,48,Adequate,75.93022717082103,0.9151371772299997
+HCL Technologies Limited,IT,Listed,66,63,79,71,Leadership,97.82172800026082,0.9151371772299997
+HDB Financial Services Limited,Lending,Unlisted,59,53,65,60,Adequate,80.06295019976662,0.9151371772299997
+HDFC Asset Management Company Limited,Financial Services,Listed,50,55,77,62,Strong,94.89242654893214,0.9151371772299997
+HDFC Bank Limited,Lending,Listed,65,67,81,72,Leadership,100.50074399437825,0.9151371772299997
+HDFC Credila Financial Services Limited,Lending,Unlisted,66,52,64,62,Strong,78.58194859522227,0.9151371772299997
+HDFC Life Insurance Company Limited,Insurance,Listed,50,59,68,60,Adequate,84.83157816895213,0.9151371772299997
+HDFC Securities Limited,Financial Services,Unlisted,41,41,62,50,Adequate,76.03336103462803,0.9151371772299997
+Healthcare Global Enterprises Limited,Healthcare,Listed,52,48,70,58,Adequate,85.6198767949723,0.9151371772299997
+Heidelberg Cement India Limited,Cement,Listed,44,52,68,56,Adequate,84.219702624647,0.9151371772299997
+Heritage Foods Limited,FMCG,Listed,38,46,70,53,Adequate,86.08674276013566,0.9151371772299997
+Hero FinCorp Limited,Lending,Unlisted,56,51,54,54,Adequate,66.7898131534867,0.9151371772299997
+Hero Motocorp Limited,Auto OEM,Listed,61,59,71,64,Strong,87.567485735183,0.9151371772299997
+Himatsingka Seide Limited,Textiles,Listed,47,47,64,54,Adequate,78.69401345035149,0.9151371772299997
+Hindalco Industries Limited,Metal,Listed,43,60,71,58,Adequate,88.36676383295865,0.9151371772299997
+Hinduja Leyland Finance Limited,Lending,Unlisted,56,52,61,57,Adequate,75.2428378465115,0.9151371772299997
+Hindustan Aeronautics Limited,Industrial and capital goods,Listed,43,52,59,52,Adequate,73.48245537810821,0.9151371772299997
+Hindustan Construction Company Limited,Construction EPC,Listed,42,52,60,52,Adequate,74.69342615803147,0.9151371772299997
+Hindustan Copper Limited,Metal,Listed,29,46,64,47,Adequate,79.06315273975171,0.9151371772299997
+Hindustan Petroleum Corporation Limited,Oil and Gas - OMC,Listed,53,64,64,60,Adequate,80.19860973967056,0.9151371772299997
+Hindustan Unilever Limited,FMCG,Listed,64,55,78,68,Strong,95.86116266969997,0.9151371772299997
+Hindustan Zinc Limited,Metal,Listed,54,60,56,56,Adequate,70.09906827030325,0.9151371772299997
+Hitachi Energy India Limited,Industrial and capital goods,Listed,41,49,67,54,Adequate,82.88937641678527,0.9151371772299997
+Home First Finance Company India Limited,Lending,Listed,62,59,71,65,Strong,87.80293141727866,0.9151371772299997
+Honeywell Automation India Limited,Industrial and capital goods,Listed,43,48,74,57,Adequate,90.9638292333381,0.9151371772299997
+Housing and Urban Development Corporation Limited,Lending,Listed,63,61,56,60,Adequate,70.12686443576895,0.9151371772299997
+Housing Development Finance Corporation Limited,Lending,Listed,70,61,80,72,Leadership,98.52181508542346,0.9151371772299997
+ICICI Bank Limited,Lending,Listed,61,66,78,69,Strong,96.89160242104637,0.9151371772299997
+ICICI Home Finance Company Limited,Lending,Unlisted,62,56,62,61,Strong,76.86558385641621,0.9151371772299997
+ICICI Lombard General Insurance Company Limited,Insurance,Listed,54,60,69,62,Strong,85.96721125053408,0.9151371772299997
+ICICI Prudential Life Insurance Company Limited,Insurance,Listed,50,52,73,60,Adequate,89.92918800130072,0.9151371772299997
+ICICI Securities Limited,Financial Services,Listed,64,54,78,67,Strong,95.43643104936838,0.9151371772299997
+IDBI Bank Limited,Lending,Listed,51,64,62,59,Adequate,78.09285874830486,0.9151371772299997
+IDFC FIRST Bank Limited,Lending,Listed,57,59,78,66,Strong,96.33129380864474,0.9151371772299997
+IDFC Limited,Holding,Listed,57,59,74,64,Strong,91.38427682514484,0.9151371772299997
+Ifgl Refractories Limited-formerly IFGL Exports Limited,Industrial and capital goods,Listed,34,44,72,52,Adequate,88.44630301199096,0.9151371772299997
+IIFL Finance Limited,Lending,Listed,68,58,65,64,Strong,80.11237511740765,0.9151371772299997
+IIFL Home Finance Limited,Lending,Unlisted,66,60,65,64,Strong,80.4909469938796,0.9151371772299997
+India Grid Trust,Invit,Listed,30,38,71,48,Adequate,86.44498512561428,0.9151371772299997
+India Infradebt Limited,Lending,Unlisted,59,57,67,62,Strong,82.97741187597968,0.9151371772299997
+Indiabulls Commercial Credit Limited,Lending,Unlisted,62,37,47,50,Adequate,56.74389808245142,0.9151371772299997
+Indiabulls Housing Finance Limited,Lending,Listed,63,53,56,58,Adequate,69.2449580668427,0.9151371772299997
+Indiamart Intermesh Limited,Internet,Listed,55,52,72,61,Strong,88.40202665289674,0.9151371772299997
+Indian Bank,Lending,Listed,55,67,58,59,Adequate,73.26519719274346,0.9151371772299997
+Indian Energy Exchange Limited,Financial Services,Listed,42,51,70,55,Adequate,86.21691256416186,0.9151371772299997
+Indian Oil Corporation Limited,Oil and Gas - OMC,Listed,43,70,68,60,Adequate,86.17820848877929,0.9151371772299997
+Indian Overseas Bank,Lending,Listed,59,66,56,60,Adequate,70.88941537675667,0.9151371772299997
+Indian Railway Catering and Tourism Corporation Limited,Internet,Listed,50,55,62,56,Adequate,76.97009950923915,0.9151371772299997
+Indian Railway Finance Corporation Limited,Lending,Listed,59,53,65,60,Adequate,80.06295019976662,0.9151371772299997
+Indian Renewable Energy Development Agency Limited,DFI-Unlisted,Unlisted,73,53,58,62,Strong,71.13765235353459,0.9151371772299997
+Indigo Paints Limited,Paints,Listed,35,40,69,50,Adequate,84.32087055585463,0.9151371772299997
+IndInfravit Trust,Invit,Listed,19,23,47,31,Below Average,56.6078194946319,0.9151371772299997
+Indoco Remedies Limited,Pharmaceuticals,Listed,36,55,72,55,Adequate,89.3959978769522,0.9151371772299997
+IndoStar Capital Finance Limited,Lending,Listed,59,51,65,59,Adequate,79.63281139139116,0.9151371772299997
+Indraprastha Gas Limited,Oil and Gas - Gas,Listed,34,44,66,49,Adequate,81.0257775367411,0.9151371772299997
+Indus Towers Limited,Telecom,Listed,39,58,75,58,Adequate,93.19983257656389,0.9151371772299997
+IndusInd Bank Limited,Lending,Listed,70,65,65,66,Strong,80.62111679790578,0.9151371772299997
+Infibeam Avenues Limited,Internet,Listed,50,52,42,47,Adequate,52.63811745989584,0.9151371772299997
+Info Edge (India) Limited,Internet,Listed,59,60,75,66,Strong,92.88766740711102,0.9151371772299997
+Infosys Limited,IT,Listed,81,62,80,76,Leadership,98.1818537505049,0.9151371772299997
+Ingersoll Rand India Limited,Industrial and capital goods,Listed,38,45,69,52,Adequate,84.63491911007297,0.9151371772299997
+Inox Leisure Limited,Media,Unlisted,43,44,63,51,Adequate,77.12824156039412,0.9151371772299997
+Inox Wind Energy Limited,Heavy Engineering,Listed,32,33,61,44,Below Average,74.10197365854881,0.9151371772299997
+Insecticides (India) Limited,Chemical,Listed,23,37,65,43,Below Average,79.46755484908998,0.9151371772299997
+Intellect Design Arena Limited,IT,Listed,43,49,69,55,Adequate,84.99512740815095,0.9151371772299997
+Interglobe Aviation Limited,Airlines,Listed,45,56,69,57,Adequate,85.50386908864908,0.9151371772299997
+IPCA Laboratories Limited,Pharmaceuticals,Listed,33,44,67,49,Adequate,82.23674831666432,0.9151371772299997
+IRB Infrastructure Developers Limited,Road Infrastructure,Listed,22,43,54,40,Below Average,67.12789110363983,0.9151371772299997
+ISGEC Heavy Engineering Limited,Heavy Engineering,Listed,37,47,73,54,Adequate,89.77662921985268,0.9151371772299997
+ITC Limited,FMCG,Listed,66,50,67,63,Strong,82.07173474061567,0.9151371772299997
+ITD Cementation India Limited,Construction EPC,Listed,30,45,70,50,Adequate,86.2943922767656,0.9151371772299997
+J B Chemicals and Pharmaceuticals Limited,Pharmaceuticals,Listed,36,57,66,53,Adequate,82.4056112100778,0.9151371772299997
+J. Kumar Infraprojects Limited,Construction EPC,Listed,30,44,60,45,Below Average,73.92144262997196,0.9151371772299997
+Jagran Prakashan Limited,Media,Listed,44,46,57,50,Adequate,70.37330057561535,0.9151371772299997
+Jamna Auto Industries Limited,Auto Ancillary,Listed,34,46,68,50,Adequate,83.51010040457872,0.9151371772299997
+Jamnagar Utilities and Power Private Limited,Power Thermal,Unlisted,23,34,52,37,Below Average,63.58319030472765,0.9151371772299997
+Jindal Steel and Power Limited,Metal,Listed,34,52,56,47,Adequate,69.95946587920531,0.9151371772299997
+JK Cement Limited,Cement,Listed,48,60,61,56,Adequate,76.33780092011152,0.9151371772299997
+JK Lakshmi Cement Limited,Cement,Listed,27,39,66,46,Adequate,81.02791955100352,0.9151371772299997
+JK Tyre and Industries Limited,Tyre,Listed,44,52,56,51,Adequate,69.79797610643503,0.9151371772299997
+JM Financial Asset Reconstruction Company Limited,Financial Services,Unlisted,41,37,55,46,Adequate,67.14479034518394,0.9151371772299997
+JM Financial Credit Solutions Limited,Lending,Unlisted,56,46,51,52,Adequate,62.8428522594987,0.9151371772299997
+JM Financial Limited,Financial Services,Listed,43,53,69,56,Adequate,85.43608059261406,0.9151371772299997
+JM Financial Products Limited,Lending,Unlisted,59,50,56,56,Adequate,69.12560263890418,0.9151371772299997
+JM Financial Services Limited,Financial Services,Unlisted,41,28,53,43,Below Average,63.7839682964639,0.9151371772299997
+JMC Projects India Limited,Construction EPC,Listed,30,43,67,48,Adequate,82.36365294690908,0.9151371772299997
+John Deere Financial India Private Limited,Lending,Unlisted,59,53,47,53,Adequate,58.640022638592555,0.9151371772299997
+Johnson Controls-Hitachi Air Conditioning India Limited,Consumer Durable,Listed,37,47,61,49,Adequate,75.35490270164073,0.9151371772299997
+JSW Energy Limited,Power Thermal,Listed,44,50,67,55,Adequate,82.76247178654046,0.9151371772299997
+JSW Steel Limited,Metal,Listed,50,56,64,57,Adequate,79.44901518903292,0.9151371772299997
+Jubilant FoodWorks Limited,Food Retail,Listed,34,48,69,51,Adequate,84.96733124268526,0.9151371772299997
+Jubilant Pharmova Limited,Pharmaceuticals,Listed,53,53,62,57,Adequate,76.82697331486283,0.9151371772299997
+Just Dial Limited,Internet,Listed,53,55,58,55,Adequate,71.89077070745059,0.9151371772299997
+Jyothy Labs Limited,FMCG,Listed,44,53,70,57,Adequate,86.69861830444079,0.9151371772299997
+Kajaria Ceramics Limited,Building material,Listed,35,41,63,48,Adequate,77.32507670093638,0.9151371772299997
+Kalpataru Power Transmission Limited,Heavy Engineering,Listed,38,46,66,51,Adequate,81.13972577663576,0.9151371772299997
+Kansai Nerolac Paints Limited,Paints,Listed,68,70,73,71,Leadership,91.32926863779686,0.9151371772299997
+KEC International Limited,Heavy Engineering,Listed,36,55,72,55,Adequate,89.3959978769522,0.9151371772299997
+KEI Industries Limited,Industrial and capital goods,Listed,34,40,70,50,Adequate,85.53184133577788,0.9151371772299997
+Kennametal India Limited,Industrial and capital goods,Listed,39,48,74,55,Adequate,90.86069536953111,0.9151371772299997
+Kirloskar Ferrous Industries Limited,Metal,Listed,34,41,73,51,Adequate,89.03784904530276,0.9151371772299997
+Kirloskar Pneumatic Company Limited,Industrial and capital goods,Listed,42,44,71,54,Adequate,86.78682984529833,0.9151371772299997
+KNR Constructions Limited,Construction EPC,Listed,30,37,53,41,Below Average,65.01665037639638,0.9151371772299997
+Kotak Mahindra Bank Limited,Lending,Listed,75,61,79,73,Leadership,96.99465373701946,0.9151371772299997
+Kotak Mahindra Investments Limited,Lending,Unlisted,57,50,62,57,Adequate,76.07523674996278,0.9151371772299997
+Kotak Mahindra Prime Limited,Lending,Unlisted,56,53,52,54,Adequate,64.74644347011218,0.9151371772299997
+Kotak Securities Limited,Financial Services,Unlisted,41,41,62,49,Adequate,75.61403660234025,0.9151371772299997
+KPIT Technologies Limited,IT,Listed,54,55,73,62,Strong,90.04854342923925,0.9151371772299997
+KPR Mill Limited,Textiles,Unlisted,34,50,66,51,Adequate,81.89686952957966,0.9151371772299997
+Krishna Institute of Medical Sciences Limited,Healthcare,Listed,36,39,60,46,Adequate,73.21045862088776,0.9151371772299997
+KSB Limited,Industrial and capital goods,Listed,34,46,70,51,Adequate,85.98360889632868,0.9151371772299997
+L G Balakrishnan and Bros Limited,Auto Ancillary,Listed,35,48,65,50,Adequate,80.25575994128097,0.9151371772299997
+L&T Finance Holdings Limited,Holding,Listed,81,62,71,72,Leadership,87.26072775377398,0.9151371772299997
+L&T Finance Limited,Lending,Unlisted,63,50,59,58,Adequate,72.31001259190445,0.9151371772299997
+L&T Technology Services Limited,IT,Listed,50,53,72,59,Adequate,88.48817872732569,0.9151371772299997
+LA Opala R G Limited,Consumer Products,Listed,33,40,59,45,Below Average,72.32108559748914,0.9151371772299997
+Lakshmi Machine Works Limited,Industrial and capital goods,Listed,40,43,64,50,Adequate,78.28223822037002,0.9151371772299997
+Larsen and Toubro Limited,Diversified,Listed,60,58,74,65,Strong,91.24655781881235,0.9151371772299997
+Latent View Analytics Limited,IT,Listed,42,55,59,52,Adequate,73.68255569243188,0.9151371772299997
+Laurus Labs Limited,Pharmaceuticals,Listed,46,59,74,60,Adequate,91.72964534810724,0.9151371772299997
+Laxmi Organic Industries Limited,Chemical,Listed,27,41,63,45,Below Average,77.53813340561015,0.9151371772299997
+Lemon Tree Hotels Limited,Hotel,Listed,49,56,64,57,Adequate,79.63289393922507,0.9151371772299997
+LIC Housing Finance Limited,Lending,Listed,63,57,75,66,Strong,92.13593084221097,0.9151371772299997
+Linde India Limited,Industrial and capital goods,Listed,34,53,73,54,Adequate,90.36070859869211,0.9151371772299997
+LTIMindtree Limited,IT,Listed,73,61,75,70,Strong,91.99606982161606,0.9151371772299997
+Lumax Industries Limited,Auto Ancillary,Listed,34,52,67,52,Adequate,83.3541003676862,0.9151371772299997
+Lupin Limited,Pharmaceuticals,Listed,48,56,67,58,Adequate,83.31737321089827,0.9151371772299997
+Lux Industries Limited,Consumer Products,Listed,37,46,71,53,Adequate,87.29771354005891,0.9151371772299997
+Macrotech Developers Limited,Real Estate,Listed,40,36,60,47,Adequate,72.87804648827547,0.9151371772299997
+Mahanagar Gas Limited,Oil and Gas - Gas,Listed,34,47,71,52,Adequate,87.43543254639137,0.9151371772299997
+Mahanagar Telephone Nigam Limited,Telecom,Listed,37,43,64,49,Adequate,78.41455003865866,0.9151371772299997
+Mahindra and Mahindra Financial Services Limited,Lending,Listed,74,64,71,71,Leadership,88.13936894891883,0.9151371772299997
+Mahindra and Mahindra Limited,Auto OEM,Listed,66,55,72,66,Strong,88.4922041263536,0.9151371772299997
+Mahindra Holidays and Resorts India Limited,Hotel,Listed,46,47,73,57,Adequate,89.37969376498678,0.9151371772299997
+Mahindra Lifespace Developers Limited,Real Estate,Listed,46,51,61,53,Adequate,75.39892043123793,0.9151371772299997
+Mahindra Logistics Limited,Logistics,Listed,46,46,70,55,Adequate,85.45436162317411,0.9151371772299997
+Mahindra Rural Housing Finance Limited,Lending,Unlisted,66,57,59,61,Strong,73.05419995449823,0.9151371772299997
+Manappuram Finance Limited,Lending,Listed,63,64,72,67,Strong,89.51182950161233,0.9151371772299997
+Mangalam Cement Limited,Cement,Listed,25,40,70,47,Adequate,85.9287767906438,0.9151371772299997
+Marico Limited,FMCG,Listed,70,61,78,71,Leadership,96.0483065936735,0.9151371772299997
+Maruti Suzuki India Limited,Auto OEM,Listed,58,57,64,60,Adequate,79.241365672403,0.9151371772299997
+MAS Financial Services Limited,Lending,Listed,62,50,65,60,Adequate,79.49509238505868,0.9151371772299997
+Mastek Limited,IT,Listed,52,57,75,63,Strong,92.90062379746115,0.9151371772299997
+Max Financial Services Limited,Insurance,Listed,43,41,65,52,Adequate,79.58552848801256,0.9151371772299997
+Max Healthcare Institute Limited,Healthcare,Listed,55,45,73,60,Adequate,88.97194393403318,0.9151371772299997
+MEP Infrastructure Developers Limited,Road Infrastructure,Listed,20,33,55,37,Below Average,67.21069545645351,0.9151371772299997
+Metropolis Healthcare Limited,Healthcare,Listed,43,54,71,57,Adequate,87.91499627240786,0.9151371772299997
+Minda Corporation Limited,Auto Ancillary,Listed,36,47,68,52,Adequate,83.98639895681383,0.9151371772299997
+Mindspace Business Parks REIT (Mindspace REIT),REIT,Listed,37,31,44,38,Below Average,53.195254432345266,0.9151371772299997
+MindTree Limited,IT,Listed,83,69,74,76,Leadership,91.68939438804092,0.9151371772299997
+Mishra Dhatu Nigam Limited,Metal,Listed,27,42,53,41,Below Average,65.59532256719199,0.9151371772299997
+MM Forgings Limited,Auto Ancillary,Listed,36,42,61,48,Adequate,75.09242107932592,0.9151371772299997
+Motilal Oswal Financial Services Limited,Financial Services,Listed,49,59,72,61,Strong,89.54314947035643,0.9151371772299997
+Motilal Oswal Home Finance Limited,Lending,Unlisted,63,51,59,58,Adequate,72.31541977994829,0.9151371772299997
+Mphasis Limited,IT,Listed,60,57,69,63,Strong,85.26704161753752,0.9151371772299997
+MPS Limited,IT,Listed,45,48,70,55,Adequate,85.64905474945394,0.9151371772299997
+MRF Limited,Tyre,Listed,34,49,64,49,Adequate,78.9986294174981,0.9151371772299997
+Mrs.Bectors Food Specialities Limited,FMCG,Listed,38,48,74,55,Adequate,91.04457411972324,0.9151371772299997
+MTAR Technologies Limited,Industrial and capital goods,Listed,34,48,78,55,Adequate,95.88845723941616,0.9151371772299997
+Multi Commodity Exchange of India Limited,Financial Services,Listed,44,41,77,56,Adequate,93.40405182374461,0.9151371772299997
+Muthoot Finance Limited,Lending,Listed,64,63,72,67,Strong,89.32254356337636,0.9151371772299997
+Nabha Power Limited,Power Thermal,Unlisted,23,34,61,41,Below Average,74.50431630145857,0.9151371772299997
+Narayana Hrudayalaya Limited,Healthcare,Listed,39,46,70,53,Adequate,85.90286400994353,0.9151371772299997
+Natco Pharma Limited,Pharmaceuticals,Listed,54,68,62,61,Strong,78.40150011447936,0.9151371772299997
+National Aluminium Company Limited,Metal,Listed,41,54,59,51,Adequate,73.4417028222924,0.9151371772299997
+National Bank For Agriculture and Rural Development,DFI-Unlisted,Listed,67,58,45,56,Adequate,56.399817814675785,0.9151371772299997
+National Cooperative Development Corporation,DFI-Unlisted,Unlisted,62,39,32,44,Below Average,38.83238541884609,0.9151371772299997
+National Housing Bank,DFI-Unlisted,Unlisted,62,46,48,52,Adequate,58.6583036691526,0.9151371772299997
+Navin Fluorine International Limited,Chemical,Listed,29,52,64,49,Adequate,79.93424473259027,0.9151371772299997
+Navneet Education Limited,Education & Publishing,Listed,49,49,64,55,Adequate,78.75639475834267,0.9151371772299997
+Nayara Energy Limited,Oil and Gas - OMC,Unlisted,26,50,50,42,Below Average,63.16050716482931,0.9151371772299997
+Nazara Technologies Limited,Internet,Listed,49,48,70,57,Adequate,85.75218861326094,0.9151371772299997
+NBCC (India) Limited,Construction EPC,Listed,31,47,66,49,Adequate,81.59363535144901,0.9151371772299997
+NCC Limited,Construction EPC,Listed,30,36,51,40,Below Average,62.53773469660259,0.9151371772299997
+NCL Industries Limited,Cement,Listed,26,30,70,45,Below Average,84.85217729543773,0.9151371772299997
+Neogen Chemicals Limited,Chemical,Listed,25,45,65,46,Adequate,80.40102814991974,0.9151371772299997
+Nestle India Limited,FMCG,Listed,48,56,75,60,Adequate,92.37275831332254,0.9151371772299997
+Network18 Media and Investments Limited,Media,Listed,42,47,67,54,Adequate,82.69468329050544,0.9151371772299997
+Newgen Software Technologies Limited,IT,Listed,45,54,73,59,Adequate,90.44007169606134,0.9151371772299997
+NHPC Limited,Power Renewable,Listed,65,64,56,61,Strong,70.19465293180396,0.9151371772299997
+Nilkamal Limited,Consumer Products,Listed,34,45,62,48,Adequate,76.50349217357278,0.9151371772299997
+Nippon Life India Asset Management Limited,Financial Services,Listed,47,47,69,55,Adequate,84.24879803129473,0.9151371772299997
+NLC India Limited,Power Thermal,Listed,30,48,70,51,Adequate,86.72993827318489,0.9151371772299997
+NRB Bearings Limited,Auto Ancillary,Listed,34,42,72,51,Adequate,88.0161642036155,0.9151371772299997
+NTPC Limited,Power Thermal,Listed,45,63,66,58,Adequate,82.87976774805045,0.9151371772299997
+Nuclear Power Corporation of India Limited,Power Renewable,Unlisted,50,41,66,54,Adequate,80.16411813097424,0.9151371772299997
+Nuvoco Vistas Corporation Limited,Cement,Listed,28,51,59,46,Adequate,73.7192828492198,0.9151371772299997
+Oberoi Realty Limited,Real Estate,Listed,46,46,64,53,Adequate,78.45316058021201,0.9151371772299997
+Oil India Limited,Oil & Gas - E&P,Listed,35,55,61,51,Adequate,76.60456657095123,0.9151371772299997
+One 97 Communications Limited,Financial Services,Listed,41,37,50,43,Below Average,60.751356899665154,0.9151371772299997
+Oracle Financial Services Software Limited,IT,Listed,42,58,74,59,Adequate,92.04042872854417,0.9151371772299997
+Orient Cement Limited,Cement,Listed,36,45,77,54,Adequate,94.05806171288151,0.9151371772299997
+Orient Electric Limited,Consumer electricals,Listed,33,46,77,54,Adequate,94.61510515150178,0.9151371772299997
+Oriental Carbon and Chemicals Limited,Chemical,Listed,24,38,61,42,Below Average,74.76139073572953,0.9151371772299997
+Page Industries Limited,Consumer Products,Listed,58,51,62,58,Adequate,76.31608962010226,0.9151371772299997
+Panatone Finvest Limited,Holding,Unlisted,68,63,45,57,Adequate,56.6622994369906,0.9151371772299997
+Paras Defence and Space Technologies Limited,Industrial and capital goods,Listed,33,37,59,44,Below Average,71.88553960106985,0.9151371772299997
+Patanjali Foods Limited,FMCG,Listed,38,46,61,49,Adequate,75.16561676340474,0.9151371772299997
+PB Fintech Limited,Financial Services,Listed,41,45,54,47,Adequate,66.58028025209133,0.9151371772299997
+PCBL Limited,Chemical,Listed,48,43,66,54,Adequate,80.5426900074462,0.9151371772299997
+Persistent Systems Limited,IT,Listed,54,60,74,64,Strong,91.94132026376506,0.9151371772299997
+Petronet LNG Limited,Oil and Gas - Gas,Listed,34,50,70,52,Adequate,86.4245620807918,0.9151371772299997
+Pfizer Limited,Pharmaceuticals,Listed,37,46,68,51,Adequate,83.37778858629008,0.9151371772299997
+Phoenix Mills Limited,Real Estate,Listed,48,48,62,54,Adequate,76.46135782874103,0.9151371772299997
+PI Industries Limited,Chemical,Listed,49,54,69,58,Adequate,85.17686414408064,0.9151371772299997
+Pidilite Industries Limited,Chemical,Listed,53,57,69,61,Strong,85.71554400430693,0.9151371772299997
+Piramal Capital and Housing Finance Limited,Lending,Unlisted,59,53,34,48,Adequate,43.1912040906495,0.9151371772299997
+Piramal Enterprises Limited,Lending,Listed,57,50,64,58,Adequate,78.54874524171274,0.9151371772299997
+Pitti Engineering Limited,Industrial and capital goods,Listed,34,39,64,47,Adequate,78.10590867248418,0.9151371772299997
+PNB Housing Finance Limited,Lending,Listed,62,51,70,62,Strong,85.47460858633353,0.9151371772299997
+PNC Infratech Limited,Road Infrastructure,Listed,20,41,61,42,Below Average,75.5131273006296,0.9151371772299997
+Polycab India Limited,Consumer electricals,Listed,41,56,68,56,Adequate,84.79296762739875,0.9151371772299997
+Power Finance Corporation Limited,DFI-Listed,Listed,46,68,62,58,Adequate,78.61455681915312,0.9151371772299997
+Power Grid Corporation of India Limited,Power T&D,Listed,56,58,62,59,Adequate,77.14102186908117,0.9151371772299997
+Power Mech Projects Limited,Construction EPC,Listed,30,44,62,46,Adequate,76.39495112172195,0.9151371772299997
+Premier Explosives Limited,Industrial and capital goods,Listed,32,37,63,46,Adequate,77.0164353347619,0.9151371772299997
+Prestige Estates Projects Limited,Real Estate,Listed,38,46,60,49,Adequate,74.13852473367366,0.9151371772299997
+Prince Pipes and Fittings Limited,Building material,Listed,41,41,71,53,Adequate,86.53516259907117,0.9151371772299997
+Prism Johnson Limited,Cement,Listed,45,44,68,54,Adequate,83.15391750552864,0.9151371772299997
+Procter & Gamble Health Limited,FMCG,Listed,41,46,76,56,Adequate,92.95563198480912,0.9151371772299997
+Procter and Gamble Hygiene and Health Care Limited,FMCG,Listed,46,43,70,55,Adequate,85.4381400590426,0.9151371772299997
+Pune Solapur Expressways Private Limited,Road Infrastructure,Unlisted,20,26,39,29,Weak,47.38477720614699,0.9151371772299997
+Punjab and Sind Bank,Lending,Listed,62,61,54,59,Adequate,67.83723469421112,0.9151371772299997
+Punjab National Bank,Lending,Listed,57,62,52,56,Adequate,65.44987827689013,0.9151371772299997
+PVR Limited,Media,Listed,47,45,58,50,Adequate,70.84334916672618,0.9151371772299997
+Quess Corp Limited,Staffing services,Listed,52,51,68,58,Adequate,83.58191429964161,0.9151371772299997
+Radico Khaitan Limited,FMCG,Listed,47,37,67,52,Adequate,80.88256879453084,0.9151371772299997
+Railtel Corporation of India Limited,Telecom,Listed,35,43,64,48,Adequate,78.36298310675515,0.9151371772299997
+Rainbow Childrens Medicare Limited,Healthcare,Listed,38,43,61,48,Adequate,74.73007076698546,0.9151371772299997
+Rajratan Global Wire Limited,Metal,Listed,27,38,69,46,Adequate,84.10378845215295,0.9151371772299997
+Rallis India Limited,Chemical,Listed,43,61,69,58,Adequate,86.3179869615403,0.9151371772299997
+Ramco Systems Limited,IT,Listed,44,61,71,59,Adequate,88.60761670309815,0.9151371772299997
+Ratnamani Metals and Tubes Limited,Metal,Listed,28,42,60,44,Below Average,73.8590613219808,0.9151371772299997
+RBL Bank Limited,Lending,Listed,69,62,60,63,Strong,74.39534053844766,0.9151371772299997
+REC Limited,DFI-Listed,Listed,49,66,61,58,Adequate,77.02501416275796,0.9151371772299997
+Redington Limited,Logistics,Listed,36,49,69,52,Adequate,85.02430536263259,0.9151371772299997
+Relaxo Footwears Limited,Consumer Products,Listed,37,48,65,51,Adequate,80.30732687318448,0.9151371772299997
+Reliance Industries Limited,Diversified,Listed,44,67,73,61,Strong,91.53289275539889,0.9151371772299997
+Reliance Jio Infocomm Limited,Telecom,Unlisted,48,23,35,37,Below Average,41.466177976013476,0.9151371772299997
+Reliance Power Limited,Power Thermal,Listed,24,33,51,37,Below Average,62.36681233676058,0.9151371772299997
+Reliance Retail Ventures Limited,Multi Brand retail,Unlisted,31,41,50,41,Below Average,61.77312428918633,0.9151371772299997
+Repco Home Finance Limited,Lending,Listed,62,45,71,62,Strong,86.46925748780161,0.9151371772299997
+Restaurant Brands Asia Limited,Food Retail,Listed,33,42,74,52,Adequate,90.67355144555762,0.9151371772299997
+RHI Magnesita India Limited,Industrial and capital goods,Listed,36,48,64,50,Adequate,79.04478916135776,0.9151371772299997
+Rites Limited,Construction EPC,Listed,31,59,71,54,Adequate,88.89060391806937,0.9151371772299997
+Rolex Rings Limited,Auto Ancillary,Listed,36,37,50,42,Below Average,61.25142621833806,0.9151371772299997
+Rossari Biotech Limited,Chemical,Listed,27,47,69,49,Adequate,85.4104264414108,0.9151371772299997
+S Chand and Company Limited,Education & Publishing,Listed,46,47,70,56,Adequate,85.87909324350572,0.9151371772299997
+Sadbhav Engineering Limited,Construction EPC,Listed,30,34,62,44,Below Average,75.50223037670803,0.9151371772299997
+Sadbhav Infrastructure Project Limited,Road Infrastructure,Listed,20,41,54,38,Below Average,66.64618536336087,0.9151371772299997
+Sagar Cements Limited,Cement,Listed,49,54,72,60,Adequate,89.09678909784945,0.9151371772299997
+Samvardhana Motherson International Limited,Auto Ancillary,Listed,39,59,64,54,Adequate,80.22992970841463,0.9151371772299997
+Sanofi India Limited,Pharmaceuticals,Listed,36,49,69,53,Adequate,85.44362979492037,0.9151371772299997
+Sapphire Foods India Limited,Food Retail,Listed,29,29,60,42,Below Average,72.76624026264325,0.9151371772299997
+Savita Oil Technologies Limited,Lubricants,Listed,32,44,67,49,Adequate,82.42062706685644,0.9151371772299997
+SBI Cards and Payment Services Limited,Financial Services,Listed,48,60,69,60,Adequate,86.23183488711135,0.9151371772299997
+SBI Life Insurance Company Limited,Insurance,Listed,43,57,67,56,Adequate,83.40352528532723,0.9151371772299997
+Schaeffler India Limited,Auto Ancillary,Listed,50,46,69,57,Adequate,84.53040345725002,0.9151371772299997
+Shaily Engineering Plastics Limited,Industrial and capital goods,Listed,34,44,68,50,Adequate,83.49928602849103,0.9151371772299997
+Sharda Cropchem Limited,Chemical,Listed,22,42,66,44,Below Average,81.12488600152018,0.9151371772299997
+Sharda Motor Industries Limited,Auto Ancillary,Listed,35,39,71,51,Adequate,86.78897185956076,0.9151371772299997
+Sheela Foam Limited,Consumer Products,Listed,35,47,64,49,Adequate,78.80393629121826,0.9151371772299997
+Shree Cement Limited,Cement,Listed,54,58,69,61,Strong,85.53707244215862,0.9151371772299997
+Shriram City Union Finance Limited,Lending,Listed,62,62,69,65,Strong,85.76496892194798,0.9151371772299997
+Shriram Finance Limited,Lending,Listed,57,64,71,64,Strong,88.33003667617075,0.9151371772299997
+Siemens Limited,Industrial and capital goods,Listed,46,54,69,57,Adequate,85.30917596236925,0.9151371772299997
+Sikka Ports & Terminals Limited,Ports,Unlisted,20,32,53,37,Below Average,65.15110420894747,0.9151371772299997
+Simplex Infrastructures Limited,Construction EPC,Listed,30,37,40,36,Below Average,49.567831828453336,0.9151371772299997
+SJVN Limited,Power Renewable,Listed,61,55,66,61,Strong,81.15242353748887,0.9151371772299997
+SKF India Limited,Industrial and capital goods,Listed,52,54,63,57,Adequate,78.0433512828299,0.9151371772299997
+Small Industries Development Bank of India,DFI-Unlisted,Unlisted,62,56,43,53,Adequate,53.996239833223285,0.9151371772299997
+Sobha Limited,Real Estate,Listed,35,46,69,51,Adequate,84.77263811640543,0.9151371772299997
+Solar Industries India Limited,Industrial and capital goods,Listed,50,40,72,56,Adequate,87.15991198589249,0.9151371772299997
+Solara Active Pharma Sciences Limited,Pharmaceuticals,Listed,34,56,74,56,Adequate,92.24267105713027,0.9151371772299997
+Sona BLW Precision Forgings Limited,Auto Ancillary,Listed,45,41,71,55,Adequate,86.63829646287816,0.9151371772299997
+Sonata Software Limited,IT,Listed,44,48,71,56,Adequate,87.27934996166493,0.9151371772299997
+Sp Jammu Udhampur Highway Limited,Road Infrastructure,Unlisted,20,29,41,30,Weak,49.874507262028445,0.9151371772299997
+SpiceJet Limited,Airlines,Listed,33,41,63,47,Adequate,77.2735097690329,0.9151371772299997
+Star Cement Limited,Cement,Listed,29,43,56,43,Below Average,69.15289720862037,0.9151371772299997
+State Bank of India,Lending,Listed,61,68,75,68,Strong,93.40181627565299,0.9151371772299997
+Steel Authority of India Limited,Metal,Listed,48,65,68,60,Adequate,85.23177879759943,0.9151371772299997
+Sterling And Wilson Renewable Energy Limited,Construction EPC,Listed,32,41,53,43,Below Average,65.509170492763,0.9151371772299997
+Sterlite Technologies Limited,Industrial and capital goods,Listed,53,45,71,58,Adequate,86.44686851037974,0.9151371772299997
+Strides Pharma Science Limited,Pharmaceuticals,Listed,45,53,68,56,Adequate,84.04123106249871,0.9151371772299997
+Subros Limited,Auto Ancillary,Listed,35,48,67,51,Adequate,82.72926843303092,0.9151371772299997
+Sudarshan Chemical Industries Limited,Chemical,Listed,26,39,61,43,Below Average,74.81836485567688,0.9151371772299997
+Sumitomo Chemical India Limited,Chemical,Listed,33,44,69,50,Adequate,84.71025680841427,0.9151371772299997
+Sun Pharmaceutical Industries Limited,Pharmaceuticals,Listed,55,60,50,54,Adequate,62.913988477149005,0.9151371772299997
+Sun TV Network Limited,Media,Listed,41,49,57,50,Adequate,70.94115839032325,0.9151371772299997
+Sundaram Finance Limited,Lending,Listed,56,57,69,62,Strong,85.5832321860183,0.9151371772299997
+Sundaram Home Finance Limited,Lending,Unlisted,62,50,60,58,Adequate,73.5209833718277,0.9151371772299997
+Sundaram-Clayton Limited,Auto Ancillary,Listed,38,46,64,50,Adequate,78.6662172848858,0.9151371772299997
+Sundram Fasteners Limited,Auto Ancillary,Listed,41,48,67,53,Adequate,82.46464479645365,0.9151371772299997
+Suprajit Engineering Limited,Auto Ancillary,Listed,34,40,70,50,Adequate,85.53184133577788,0.9151371772299997
+Suven Pharmaceuticals Limited,Pharmaceuticals,Listed,34,52,66,51,Adequate,81.90768390566733,0.9151371772299997
+Swaraj Engines Limited,Auto Ancillary,Listed,34,47,64,49,Adequate,78.9878150414104,0.9151371772299997
+Symphony Limited,Consumer electricals,Listed,34,44,69,50,Adequate,84.52637805822214,0.9151371772299997
+Syngene International Limited,Pharmaceuticals,Listed,45,63,79,63,Strong,98.32858629599352,0.9151371772299997
+Talwandi Sabo Power Limited,Power Thermal,Unlisted,28,47,60,46,Adequate,74.72474612677556,0.9151371772299997
+Tamil Nadu Newsprint and Papers Limited,Paper,Listed,36,52,71,54,Adequate,87.93335985080184,0.9151371772299997
+Tanla Platforms Limited,IT,Listed,44,44,71,55,Adequate,86.83839677720181,0.9151371772299997
+Tata Capital Financial Services Limited,Lending,Unlisted,59,54,61,59,Adequate,75.54066483659831,0.9151371772299997
+Tata Capital Housing Finance Limited,Lending,Unlisted,62,48,62,59,Adequate,75.98367748748997,0.9151371772299997
+Tata Capital Limited,Holding,Unlisted,60,52,59,57,Adequate,72.45313878628077,0.9151371772299997
+Tata Chemicals Limited,Chemical,Listed,50,52,70,59,Adequate,86.42858747981968,0.9151371772299997
+Tata Communications Limited,Telecom,Listed,68,63,70,68,Strong,86.9521689354334,0.9151371772299997
+Tata Consultancy Services Limited,IT,Listed,70,66,78,72,Leadership,96.49466696618047,0.9151371772299997
+Tata Consumer Products Limited,FMCG,Listed,60,53,82,67,Strong,100.27490698101744,0.9151371772299997
+Tata Elxsi Limited,IT,Listed,43,62,75,61,Strong,93.743919624834,0.9151371772299997
+Tata Housing Development Company Limited,Real Estate,Unlisted,34,29,55,41,Below Average,66.29206193073934,0.9151371772299997
+Tata Metaliks Limited,Metal,Listed,40,55,71,56,Adequate,88.05271527874034,0.9151371772299997
+Tata Motors Finance Limited,Lending,Unlisted,61,55,68,62,Strong,83.62593202923884,0.9151371772299997
+Tata Motors Finance Solutions Limited,Lending,Unlisted,61,46,66,59,Adequate,80.26510998051882,0.9151371772299997
+Tata Motors Limited,Auto OEM,Listed,52,56,73,62,Strong,90.42170811766735,0.9151371772299997
+Tata Power Renewable Energy Limited,Power Renewable,Unlisted,51,46,58,53,Adequate,71.37121465086479,0.9151371772299997
+Tata Projects Limited,Construction EPC,Unlisted,34,44,48,42,Below Average,59.60284997556702,0.9151371772299997
+Tata Realty and Infrastructure Limited,Real Estate,Unlisted,35,27,52,40,Below Average,62.59676828297847,0.9151371772299997
+Tata Sons Private Limited,Holding,Unlisted,51,55,58,55,Adequate,72.25852820783487,0.9151371772299997
+Tata Steel Limited,Metal,Listed,51,62,71,62,Strong,88.58384593666034,0.9151371772299997
+Tata Steel Long Products Limited,Metal,Listed,44,52,75,58,Adequate,92.2479956973402,0.9151371772299997
+Tata Teleservices (Maharashtra) Limited,Telecom,Listed,36,44,69,51,Adequate,84.57794499012563,0.9151371772299997
+Tata Teleservices Limited,Telecom,Unlisted,37,29,60,44,Below Average,72.13385912568171,0.9151371772299997
+Tatva Chintan Pharma Chem Limited,Chemical,Listed,24,36,59,41,Below Average,72.27706786789192,0.9151371772299997
+TCI Express Limited,Logistics,Listed,36,43,67,50,Adequate,82.09902931033183,0.9151371772299997
+TeamLease Services Limited,Staffing services,Listed,41,48,75,57,Adequate,92.3586787634535,0.9151371772299997
+Tech Mahindra Limited,IT,Listed,75,60,78,72,Leadership,95.54283008695676,0.9151371772299997
+Techno Electric And Engineering Company Limited,Heavy Engineering,Listed,33,44,58,46,Adequate,71.73494675222115,0.9151371772299997
+Texmaco Rail & Engineering Limited,Heavy Engineering,Listed,34,37,64,47,Adequate,78.09509429639648,0.9151371772299997
+The Anup Engineering Limited,Heavy Engineering,Listed,34,38,68,49,Adequate,83.04751846794024,0.9151371772299997
+The Federal Bank Limited,Lending,Listed,58,62,76,66,Strong,94.10945256312193,0.9151371772299997
+The Great Eastern Shipping Company Limited,Shipping,Listed,36,42,68,51,Adequate,83.54003858430686,0.9151371772299997
+The India Cements Limited,Cement,Listed,28,41,46,39,Below Average,57.37774355626283,0.9151371772299997
+The Indian Hotels Company Limited,Hotel,Listed,47,54,67,57,Adequate,83.07111315271494,0.9151371772299997
+The Karur Vysya Bank Limited,Lending,Listed,60,68,72,67,Strong,90.08509450436408,0.9151371772299997
+The Ramco Cements Limited,Cement,Listed,39,47,66,52,Adequate,81.38057864677523,0.9151371772299997
+The Supreme Industries Limited,Consumer Products,Listed,36,38,71,50,Adequate,86.18036148903703,0.9151371772299997
+The Tata Power Company Limited,Power Thermal,Listed,59,60,73,65,Strong,90.41415891536107,0.9151371772299997
+Thermax Limited,Heavy Engineering,Listed,43,53,69,56,Adequate,85.43608059261406,0.9151371772299997
+Thyrocare Technologies Limited,Healthcare,Listed,39,52,64,52,Adequate,79.35343052753223,0.9151371772299997
+Time Technoplast Limited,Industrial and capital goods,Listed,33,39,67,48,Adequate,81.79038794415737,0.9151371772299997
+Timken India Limited,Industrial and capital goods,Listed,35,41,74,52,Adequate,90.30038675712949,0.9151371772299997
+Titagarh Wagons Limited,Heavy Engineering,Listed,34,45,73,53,Adequate,89.89812666205366,0.9151371772299997
+Titan Company Limited,Consumer Products,Listed,46,58,67,57,Adequate,83.27662065508243,0.9151371772299997
+TMF Holdings Limited,Holding,Unlisted,61,52,64,60,Adequate,78.6626934816074,0.9151371772299997
+Torrent Pharmaceuticals Limited,Pharmaceuticals,Listed,56,63,65,61,Strong,81.08798276306918,0.9151371772299997
+Torrent Power Limited,Power T&D,Listed,43,55,68,56,Adequate,84.41980293897063,0.9151371772299997
+Transport Corporation of India Limited,Logistics,Listed,37,44,66,50,Adequate,80.89346571845246,0.9151371772299997
+Trent Limited,Multi Brand retail,Listed,35,45,67,50,Adequate,82.29372243661165,0.9151371772299997
+Triveni Turbine Limited,Industrial and capital goods,Listed,35,43,71,51,Adequate,86.8106006117361,0.9151371772299997
+TTK Prestige Limited,Consumer Products,Listed,38,47,63,50,Adequate,77.64453244319854,0.9151371772299997
+Tube Investments Of India Limited,Auto Ancillary,Listed,36,48,76,55,Adequate,93.46651567956971,0.9151371772299997
+TV Today Network Limited,Media,Listed,43,52,65,54,Adequate,80.48365642107032,0.9151371772299997
+TVS Motor Company Limited,Auto OEM,Listed,51,49,74,59,Adequate,90.33685528442041,0.9151371772299997
+UCO Bank,Lending,Listed,48,62,58,55,Adequate,72.84801477471814,0.9151371772299997
+Ujjivan Small Finance Bank Limited,Lending,Listed,62,59,68,64,Strong,84.3023308957976,0.9151371772299997
+UltraTech Cement Limited,Cement,Listed,48,61,71,60,Adequate,88.29142613461735,0.9151371772299997
+Unichem Laboratories Limited,Pharmaceuticals,Listed,32,56,67,52,Adequate,83.7434866202458,0.9151371772299997
+Union Bank of India,Lending,Listed,52,66,57,57,Adequate,71.94568536096939,0.9151371772299997
+United Breweries Limited,FMCG,Listed,47,38,65,52,Adequate,78.8337919231125,0.9151371772299997
+United Spirits Limited,FMCG,Listed,50,46,71,57,Adequate,86.5845875167122,0.9151371772299997
+Uno Minda Limited,Auto Ancillary,Listed,39,47,68,53,Adequate,83.85408713852519,0.9151371772299997
+UPL Limited,Chemical,Listed,40,59,61,53,Adequate,76.54545043674146,0.9151371772299997
+UTI Asset Management Company Limited,Financial Services,Listed,51,57,74,62,Strong,91.63808608563443,0.9151371772299997
+V Mart Retail Limited,Multi Brand retail,Listed,39,42,79,56,Adequate,96.38303682221135,0.9151371772299997
+Vardhman Textiles Limited,Textiles,Listed,40,43,61,49,Adequate,74.78163769888896,0.9151371772299997
+Varroc Engineering Limited,Auto Ancillary,Listed,34,53,63,50,Adequate,78.41249057223011,0.9151371772299997
+Varun Beverages Limited,FMCG,Listed,42,39,65,51,Adequate,79.33926842982926,0.9151371772299997
+Vedant Fashions Limited,Consumer Products,Listed,31,37,56,43,Below Average,68.75269657997308,0.9151371772299997
+Vedanta Limited,Metal,Listed,42,56,58,52,Adequate,72.66087085074462,0.9151371772299997
+Vesuvius India Limited,Industrial and capital goods,Listed,40,41,63,49,Adequate,76.82500738226348,0.9151371772299997
+V-Guard Industries Limited,Consumer electricals,Listed,36,45,76,54,Adequate,93.03096968315042,0.9151371772299997
+Vinati Organics Limited,Chemical,Listed,26,41,58,43,Below Average,71.74790314257127,0.9151371772299997
+VIP Industries Limited,Consumer Products,Listed,36,44,66,50,Adequate,81.0773444686446,0.9151371772299997
+Vodafone Idea Limited,Telecom,Listed,41,48,52,47,Adequate,64.54231775676065,0.9151371772299997
+Voltamp Transformers Limited,Industrial and capital goods,Listed,34,36,67,48,Adequate,81.5902876298337,0.9151371772299997
+Voltas Limited,Consumer Durable,Listed,58,56,75,64,Strong,92.21126854055227,0.9151371772299997
+VRL Logistics Limited,Logistics,Listed,40,45,60,49,Adequate,73.76536004524554,0.9151371772299997
+VST Industries Limited,FMCG,Listed,38,40,64,49,Adequate,78.21444972433501,0.9151371772299997
+Walwhan Renewable Energy Limited,Power Renewable,Unlisted,50,49,58,53,Adequate,71.57131496518844,0.9151371772299997
+Welspun India Limited,Textiles,Listed,58,59,70,63,Strong,86.67270552374056,0.9151371772299997
+Westlife Development Limited,Food Retail,Listed,34,44,64,49,Adequate,78.97159347727892,0.9151371772299997
+Wheels India Limited,Auto Ancillary,Listed,35,50,66,51,Adequate,81.71299077938751,0.9151371772299997
+Whirlpool of India Limited,Consumer Durable,Listed,41,48,73,55,Adequate,89.46584583941575,0.9151371772299997
+Wipro Limited,IT,Listed,75,64,79,74,Leadership,97.43019973343876,0.9151371772299997
+YES Bank Limited,Lending,Listed,64,66,59,62,Strong,73.8899465795648,0.9151371772299997
+Zee Entertainment Enterprises Limited,Media,Listed,43,50,55,50,Adequate,68.52462401852064,0.9151371772299997
+Zensar Technologies Limited,IT,Listed,76,53,73,69,Strong,88.92766757493898,0.9151371772299997
+ZF Commercial Vehicle Control Systems India Limited,Auto Ancillary,Listed,45,57,64,56,Adequate,79.9544916957497,0.9151371772299997
+Zomato Limited,Internet,Listed,46,41,57,49,Adequate,69.5591827027241,0.9151371772299997
+Zydus Lifesciences Limited,Pharmaceuticals,Listed,33,60,69,54,Adequate,86.47406954626675,0.9151371772299997
+Zydus Wellness Limited,FMCG,Listed,39,40,73,53,Adequate,88.9516969708738,0.9151371772299997

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Res-Ram
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Raman
+    family-names: Ghuman
+    email: ramanghumans@gmail.com
+  - given-names: Raman
+    family-names: Singh
+    email: rajkanwars15@outlook.com
+repository-code: 'https://github.com/Rajkanwars15/diabetes-pred_uci'
+keywords:
+  - ESG
+  - CSR
+  - Machine Learning
+  - Linear Regression
+  - Software Applications
+license: GPL-3.0
+date-released: '2023-09-29'

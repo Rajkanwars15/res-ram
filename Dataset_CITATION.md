@@ -1,0 +1,3 @@
+- ESG Data (https://www.kaggle.com/datasets/thomsnowflake/esgdata)
+- CRISIL ESG Score 2022 (https://www.crisil.com/en/home/what-we-do/financial-products/crisils-sustainability-solutions/esg-score-2022.html)
+- Top 50 companies in India for CSR and Sustainability in 2022 by The CSR Journal (https://thecsrjournal.in/top-companies-india-csr-sustainability-2022/)
